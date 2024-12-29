@@ -14,7 +14,7 @@
 		7CAEA13C2D21B43200E054DC /* Exceptions for "SecureScribe" folder in "SecureScribe" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
-				Info.plist,
+				Services/Info.plist,
 			);
 			target = 7CAEA1282D21B43000E054DC /* SecureScribe */;
 		};
